@@ -1,4 +1,7 @@
 choco upgrade chocolatey
+choco install slack -y
+choco install microsoft-teams -y
+choco install toggl -y
 choco install git -y
 choco install nodejs-lts -y
 choco install visualstudio2019community -y
