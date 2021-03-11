@@ -1,4 +1,4 @@
-choco upgrade chocolatey -y
+choco upgrade chocolatey
 choco install git -y
 choco install nodejs-lts -y
 choco install visualstudio2019community -y
