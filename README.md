@@ -1,4 +1,3 @@
-# chocolatey
-A simple batch file to install handy dev applications 
+# pre-requisites:
 
-first install choclatey as per https://chocolatey.org/install
+- install chocolatey as per [here](https://chocolatey.org/install)
